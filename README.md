@@ -6,3 +6,4 @@ Libraries Used      -> Numpy, Pandas, Matplotlib, Seaborn, KNeighborsClassifer, 
 Approach            -> KNN Classifier (K Nearest Newighbors Classifer)
 Accuracy            -> 0.956  (95%)
 Mean_squarred_error -> 0.043  (4%)
+END
